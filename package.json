@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "nx": "^19.5.7"
-  }
+  "license": "ISC"
 }
